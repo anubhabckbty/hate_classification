@@ -1,6 +1,7 @@
 Requirements:
 Python 3 (version 3.7.6 or below)
 (note this program does not run in Python 3.8)
+**data** folder containing the **tweets.csv** file
 
 Process:
 Run './setupEnv.sh virtualenv' create environment with appropriate package versions
